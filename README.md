@@ -6,7 +6,7 @@
 **FLIP-80M: 80 Million Visual-Linguistic Pairs for Facial Language-Image Pre-Training**  
 *Yudong Li, Xianxu Hou, Dezhi Zheng, Linlin Shen, and Zhe Zhao*
 
-[Paper](https://openreview.net/pdf?id=FHguB1EYYi)  | [BibTex](#citation)  
+[中文介绍](https://mp.weixin.qq.com/s/tllnq2qhjgvqycZklMCClg) | [Paper](https://openreview.net/pdf?id=FHguB1EYYi)  | [BibTex](#citation) 
 
 **tl; dr** We release an 80-million face-text dataset and different CLIP-like models pre-trained on our dataset.
 
